@@ -1,4 +1,4 @@
 ---
 title: "This is a test"
-date: YYYY-MM-DD
+date: 2024-01-30
 ---
